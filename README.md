@@ -17,3 +17,11 @@
 
  - Dont Expect to see this Repo as a complete Operating System. This is just a learning repository where I will be implementing various Operating System concepts in C++ and Java.
  - It wont be updated regularly. I will update it whenever I learn something new about Operating Systems.
+
+ - [Command to Run C++ Files](#command-to-run-c-files)
+
+ ```bash
+ 1. g++ -std=c++11 -pthread filename.cpp -o filename
+
+ 2. ./filename
+   ```
